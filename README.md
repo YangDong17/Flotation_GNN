@@ -15,6 +15,9 @@ Then install graphwm (stands for graph world models) as a package:
 ```
 pip install -e ./
 ```
+# Prepare the dataset
+
+Our DFT dataset is available thought https://figshare.com/s/407d85e9e0dab8ffdacf
 
 # Acknowledgements
 Flotation_GNN builds upon the source code and data from the following projects:
