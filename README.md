@@ -8,11 +8,12 @@ conda env create -f env.yml
 ```
 Activate the conda environment with:
 ```
-conda activate mlcgmd
+conda activate flotation_GNN
 ```
 Then install graphwm (stands for graph world models) as a package:
 
 ```
+cd ocpmodels
 pip install -e ./
 ```
 # Prepare the dataset
